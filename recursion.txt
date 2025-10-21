@@ -1,0 +1,7 @@
+
+Steps
+1. Locate the Simplest possible input (base case)
+2. Play around with visual and examples
+3. Relate hard case to smaller case (i.e can we solve n=4 with n=3?)
+4. Generalized the pattern for n=k
+5. Write code for the recursive pattern and add the base case
